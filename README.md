@@ -1,5 +1,6 @@
 # python
 me and rockety21
+Other Repositorys: https://replit.com/@21Turtles/Python-Lua
 ----------------------------------
 Python Website: https://python.org
 ----------------------------------
