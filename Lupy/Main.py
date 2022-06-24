@@ -1,5 +1,5 @@
 question = "should we add code?"
-print("question")
+print(question)
 response = True
 if response == True:
 	print("cool we are already writing code")
